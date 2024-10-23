@@ -1,7 +1,7 @@
 # IT salaries in Armenia
 
 # Overview
-The project involves analyzing monthly salary data in AMD of tech professionals in Armenia to uncover patterns and trends. At the end a machine learning regression model is trained to effectively predict salaries and gain insights.
+The project involves analyzing monthly salary data in AMD (after paying the taxes) of tech professionals in Armenia to uncover patterns and trends. At the end a machine learning regression model is trained to effectively predict salaries and gain insights.
 
 # Goal
 The primary goal is to provide insights into salary distributions and factors affecting salaries in the Armenian tech industry.
