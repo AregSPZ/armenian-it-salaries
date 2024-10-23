@@ -17,3 +17,6 @@ Machine Learning Models: An ensemble of Ridge Regression, Linear Support Vector 
 
 # Results
 The model achieves a R-Squared score of 0.66 and Root Mean Squared Error of 0.65 when trained on the whole dataset (the salaries and predictions are converted to logarithms).
+
+# License
+[Open Data Commons Attribution License (ODC-By) v1]https://opendatacommons.org/licenses/by/1-0/
