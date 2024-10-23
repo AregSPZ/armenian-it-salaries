@@ -13,7 +13,7 @@ Clustering: Utilizing DBSCAN to dynamically convert text data (company names and
 
 Statistical Analysis: Methods to analyze and summarize the data.
 
-Machine Learning Models: An ensemble of Ridge Regression, Linear Support Vector Machines, and Gradient Boosting Regressor (scikit-learn's Ridge, LinearSVR, GradientBoostingRegressor respectively).
+Machine Learning Models: An ensemble of Ridge Regression, Linear Support Vector Machines, and Gradient Boosting Regressor (scikit-learn's Ridge, LinearSVR, GradientBoostingRegressor respectively) to combine the strengths of diverse algorithms.
 
 # Results
 The model achieves a R-Squared score of 0.66 and Root Mean Squared Error of 0.65 when trained on the whole dataset (the salaries and predictions are converted to logarithms).
